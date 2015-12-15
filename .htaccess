@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "cataforte"
+AuthUserFile "/home/jamnc142/.htpasswds/public_html/cataforte/passwd"
+require valid-user

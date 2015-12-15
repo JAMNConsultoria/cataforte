@@ -1,0 +1,102 @@
+/*welcome*/
+#back {background:#D5E9E9; margin-left:5%; width:90%;}
+
+#conteudo2 {background:#fff;  margin-left:2%; margin-right:2%; width:96%;}
+
+#fundo_branco1 {font-size:0.8em; height:170px; overflow:auto; padding:30px 40px 30px 40px;}
+	#fundo_branco1 p.tit {font-size:1.4em; font-weight:bold; text-align:center;}
+	#fundo_branco1 p {line-height:1.4em; text-align:justify;}
+	#fundo_branco1 a {color:#0000FF; text-decoration:underline;}
+	#fundo_branco1 a:hover {color:#FF0000; text-decoration:none;}
+	
+#fundo_branco2 {display:table; font-size:0.8em; padding:0px 40px 20px 40px;}
+	#fundo_branco2 p {text-align:justify;}
+	#fundo_branco2 a {color:#0000FF; text-decoration:underline;}
+	#fundo_branco2 a:hover {color:#FF0000; text-decoration:none;}
+
+
+/*conteudo*/
+
+#fundo_branco {margin:12px 23px 0px 23px; padding:0; width:688px;}
+
+A {
+	color:#000000;
+	text-decoration:none;
+}
+
+A:hover {
+	color:#E1381B;
+	text-decoration:underline;
+}
+
+.a1 {
+	font-family:verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666632;
+	text-decoration:none;
+}
+
+.a1:hover {
+	font-family:verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color:red;
+	text-decoration:underline;
+}
+
+.campo_busca {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border:1px;
+	border-style:solid;
+	border-color:#bdbdbd;
+	background-color:#EFEFEF;
+	width:200px;
+}
+
+.v10{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+.v11{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+
+
+
+
+#top div {
+
+	position:relative;
+	left:6px;
+	margin-left:0px;
+	padding-left:0px;
+	border-left-color:#7FD2F0;
+	border-left-style:solid;
+	border-left-width:1px ;
+}
+
+#top div div {
+	left: 15px;
+	border-left-color:#7FD2F0;
+	border-left-style:solid;
+	border-left-width:1px ;
+}
+#top2 div {
+	position:relative;
+	left:6px;
+	margin-left:0px;
+	padding-left:0px;
+	border-left-color:#7FD2F0;
+	border-left-style:solid;
+	border-left-width:1px ;
+}
+
+#top2 div div {
+	left: 15px;
+	border-left-color:#7FD2F0;
+	border-left-style:solid;
+	border-left-width:1px ;
+}
